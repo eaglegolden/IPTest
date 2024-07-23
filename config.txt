@@ -1,1 +1,1 @@
-vless://99c32cce-2651-442f-8f16-c20c114065f3@clo.nvsnappi.ir:443?path=%2Fdash%3Fed%3D2048&security=tls&encryption=none&host=xn--9wyoa572g.Eaglegolden.Ir.&type=ws&sni=xn--9wyoa572g.Eaglegolden.Ir.#MCI
+vless://c1b6bb40-68f2-442e-9ff4-79b996067d38@www.speedtest.net:80?path=%2FMci-SpeedTestNet-Uplode-Down%3Fed%3D512&security=none&encryption=none&host=speedtest.net.Hafezdivan.Online.&type=ws#%E2%84%A2%E2%80%A2xw%C2%B9+%F0%9F%87%A9%F0%9F%87%AA
